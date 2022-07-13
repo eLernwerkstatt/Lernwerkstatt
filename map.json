@@ -110,17 +110,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/moodle.uni-greifswald.de\/course\/view.php?id=6799"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openTabTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"openTabTriggerMessage",
                  "type":"string",
                  "value":"Danger Zone - Press SPACE to enter - but don't do it..."
                 }],
